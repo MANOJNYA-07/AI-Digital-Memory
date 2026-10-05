@@ -1,0 +1,7 @@
+.streamlit/
+venv/
+__pycache__/
+*.pyc
+database/
+knowledge/
+.env
